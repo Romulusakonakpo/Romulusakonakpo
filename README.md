@@ -1,7 +1,7 @@
 ---
 👋 Bonjour, je suis Romulus AKONAKPO
 ---
-Etudiant en Econométrie et Data Science Parcours Magistère Ingénieur | Statistiques & Big Data | Python • Rstudio • Power BI
+Diplômé en Econométrie et Data Science Parcours Magistère Ingénieur | Statistiques & Big Data | Python • Rstudio • Power BI
 France | Aix Marseille Université | Économie & Gestion
 
 ---
